@@ -3,3 +3,5 @@
 physics.producers.marley: @local::dune_marley_flat
 physics.producers.marley.marley_parameters.source.Emax: 30.
 physics.producers.marley.marley_parameters.source.E_bin_lefts: [2.0]
+
+outputs.out1.fileName: "prodmarley_solar_radiological_decay0_dune10kt_1x2x6_gen.root"
